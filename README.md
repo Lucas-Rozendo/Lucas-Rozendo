@@ -111,7 +111,7 @@ Os projetos envolvem:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🔗 [Ver projetos](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)
+🔗 [Ver projetos]((https://github.com/Lucas-Rozendo/projeto-tecnologias-web-))
 
 ---
 
