@@ -143,7 +143,7 @@ Em breve:
 
 🇺🇸 **Inglês - Intermediário/Avançado**
 
-Intercâmbio internacional de 4 meses nos Estados Unidos, com experiência em conversação e leitura de documentação técnica.
+Intercâmbio internacional de 4 meses nos Estados Unidos, com experiência em conversação.
 
 ---
 
