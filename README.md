@@ -147,14 +147,6 @@ Intercâmbio internacional de 4 meses nos Estados Unidos, com experiência em co
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Rozendo&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Rozendo&layout=compact&hide_border=true)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Rozendo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rozendo-47777b35b/)
