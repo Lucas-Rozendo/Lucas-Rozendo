@@ -159,4 +159,4 @@ Intercâmbio internacional de 4 meses nos Estados Unidos, com experiência em co
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Rozendo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rozendo-47777b35b/)
 
-[![Email](https://img.shields.io/badge/Email-lucasrozendo.tech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
+![Email](https://img.shields.io/badge/Email-lucasrozendo.tech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
